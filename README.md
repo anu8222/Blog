@@ -1,2 +1,2 @@
-# Blog
+#Technical Blog
 HTML| Bootstrap
