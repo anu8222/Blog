@@ -1,2 +1,2 @@
 # Blog
-HTML|Bootstrap
+HTML| Bootstrap
